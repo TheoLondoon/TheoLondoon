@@ -9,7 +9,6 @@ Atualmente estou construindo minha base em programação através de estudos e p
 ## 🚀 Atualmente estudando
 
 🐍 **Python**  
-🔧 **Git & GitHub**  
 🌐 **HTML & CSS**  
 🗄️ **MySQL**  
 ⚡ **Flask**
@@ -18,7 +17,7 @@ Atualmente estou construindo minha base em programação através de estudos e p
 
 ## 📚 Minha jornada
 
-**🐍 Python** → **🔧 Git/GitHub** → **🌐 HTML/CSS** → **🗄️ MySQL** → **⚡ Flask** → **🚀 Projetos próprios**
+**🐍 Python** → **🌐 HTML/CSS** → **🗄️ MySQL** → **⚡ Flask** → **🚀 Projetos próprios**
 
 ---
 
@@ -32,6 +31,8 @@ Atualmente estou construindo minha base em programação através de estudos e p
 ### Ferramentas
 - 🔧 Git
 - 🐙 GitHub
+- <img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/e3197c68-469c-47ee-b655-4483245d3a69" /> VS CODE
+
 
 ### Banco de dados
 - 🗄️ MySQL
