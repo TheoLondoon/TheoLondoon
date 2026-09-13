@@ -31,7 +31,9 @@ Atualmente estou construindo minha base em programação através de estudos e p
 ### Ferramentas
 - 🔧 Git
 - 🐙 GitHub
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/e3197c68-469c-47ee-b655-4483245d3a69" /> VS CODE
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3197c68-469c-47ee-b655-4483245d3a69" /> VS CODE
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7b34b9e6-fff5-4457-b6eb-06962f66f0f5" /> PY CHARM
+
 
 
 ### Banco de dados
