@@ -6,8 +6,7 @@
 
 ## 🚀 Atualmente estudando
 
-🐍 **Python**  
-🔧 **Git & GitHub**  
+🐍 **Python**   
 🌐 **HTML & CSS**  
 🗄️ **MySQL**  
 ⚡ **Flask**
