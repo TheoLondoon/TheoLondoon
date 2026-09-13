@@ -2,11 +2,14 @@
 
 💻 Estudante de programação focado em **Python** e desenvolvimento de sistemas.
 
+Atualmente estou construindo minha base em programação através de estudos e projetos práticos.
+
 ---
 
 ## 🚀 Atualmente estudando
 
-🐍 **Python**   
+🐍 **Python**  
+🔧 **Git & GitHub**  
 🌐 **HTML & CSS**  
 🗄️ **MySQL**  
 ⚡ **Flask**
@@ -15,7 +18,7 @@
 
 ## 📚 Minha jornada
 
-**Python** → **Git/GitHub** → **HTML/CSS** → **MySQL** → **Flask** → **Projetos próprios** 🚀
+**🐍 Python** → **🔧 Git/GitHub** → **🌐 HTML/CSS** → **🗄️ MySQL** → **⚡ Flask** → **🚀 Projetos próprios**
 
 ---
 
@@ -31,15 +34,33 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheoLondoon&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLondoon&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
 ## 🎯 Meu objetivo
 
-Construir uma base sólida em programação, criar projetos próprios e desenvolver um portfólio que mostre minha evolução como programador.
+Construir uma base sólida em programação, desenvolver projetos próprios e criar um portfólio que demonstre minha evolução como programador.
 
 ---
 
 ## 📈 Próximos passos
 
-Depois de terminar minha base de estudos, vou focar em **4–5 meses de prática**, criando projetos próprios e fortalecendo meu portfólio no GitHub.
+Depois de terminar minha base de estudos, meu foco será dedicar **4–5 meses à prática**, criando projetos próprios e fortalecendo meu portfólio.
+
+---
+
+## 🚀 Projetos
+
+> Em breve, meus principais projetos aparecerão aqui conforme eu avanço nos estudos.
 
 ---
 
