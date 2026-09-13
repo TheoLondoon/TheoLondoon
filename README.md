@@ -32,7 +32,7 @@ Atualmente estou construindo minha base em programação através de estudos e p
 - 🔧 Git
 - 🐙 GitHub
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e3197c68-469c-47ee-b655-4483245d3a69" /> VS CODE
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7b34b9e6-fff5-4457-b6eb-06962f66f0f5" /> PY CHARM
+- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7b34b9e6-fff5-4457-b6eb-06962f66f0f5" /> PY CHARM
 
 
 
@@ -55,19 +55,16 @@ Construir uma base sólida em programação, desenvolver projetos próprios e cr
 **01 — Python**  
 Construir uma boa base de programação e lógica.
 
-**02 — Git & GitHub**  
-Aprender versionamento e organização dos projetos.
-
-**03 — HTML & CSS**  
+**02 — HTML & CSS**  
 Aprender a construir a parte visual de páginas e sistemas.
 
-**04 — MySQL**  
+**03 — MySQL**  
 Aprender a armazenar e organizar dados.
 
-**05 — Flask**  
+**04 — Flask**  
 Juntar Python, HTML e banco de dados para criar sistemas completos.
 
-**06 — Prática**  
+**05 — Prática**  
 Criar projetos próprios e construir meu portfólio.
 
 ---
