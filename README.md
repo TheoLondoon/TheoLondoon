@@ -1,68 +1,43 @@
-<div align="center">
+# Olá, eu sou o [Seu Nome] 👋
 
-# 👋 Olá, eu sou Theo London
+### 🛠️ Sobre Mim
+Sou um desenvolvedor Back-end especializado em **Python**. Gosto de resolver problemas complexos, otimizar consultas em bancos de dados e projetar arquiteturas de software escaláveis e limpas.
 
-### 💻 Estudante de Programação | Python
-
-Aprendendo programação através de projetos e prática constante.
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-Atualmente estou construindo minha base em programação, começando pelo **Python** e aprendendo ferramentas importantes para desenvolvimento de software.
-
-Meu objetivo é transformar o conhecimento adquirido em **projetos reais**, construir meu portfólio e evoluir continuamente como desenvolvedor.
+- ⚙️ Atualmente trabalhando em/estudando: **[Seu Projeto Atual ou Foco de Estudo]**
+- 📚 Expandindo meus conhecimentos em: **[Uma tecnologia que quer aprender, ex: Go, Kubernetes, etc.]**
+- ✉️ Como me encontrar: **[Seu E-mail]**
 
 ---
 
-## 📚 Minha jornada
+### 💻 Stack Tecnológica
 
-```text
-🐍 Python
-      ↓
-🔧 Git & GitHub
-      ↓
-🌐 HTML & CSS
-      ↓
-🗄️ MySQL
-      ↓
-⚡ Flask
-      ↓
-🚀 Projetos próprios
-🛠️ Tecnologias
-<div align="center">
+#### 🐍 Linguagens & Frameworks
+![Python](https://shields.io)
+![Django](https://shields.io)
+![FastAPI](https://shields.io)
+![Flask](https://shields.io)
 
+#### 🗄️ Bancos de Dados & Cache
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
+![Redis](https://shields.io)
 
+#### 🚀 DevOps & Ferramentas
+![Docker](https://shields.io)
+![Git](https://shields.io)
+![AWS](https://shields.io)
 
+---
 
+### 📊 Estatísticas do GitHub
 
+<p align="left">
+  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" />
+</p>
 
+---
 
-
-
-
-
-
-
-
-</div>
-🎯 Objetivo
-
-Construir uma base sólida em programação, desenvolver projetos próprios e transformar minha evolução em um portfólio profissional.
-
-📈 Atualmente estudando
-🐍 Python
-🔧 Git & GitHub
-🌐 HTML & CSS
-🗄️ MySQL
-⚡ Flask
-🚀 Próximos passos
-
-Depois de concluir minha base de estudos, meu foco será dedicar alguns meses à criação de projetos próprios, fortalecendo meu portfólio e minha experiência prática.
-
-<div align="center">
-💡 Sempre aprendendo. Sempre evoluindo.
-</div> ```
+### 🌐 Conecte-se Comigo
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Seu Site](https://shields.io)](https://SEU-SITE.com)
