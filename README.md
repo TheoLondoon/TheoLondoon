@@ -2,42 +2,38 @@
 
 # Olá, eu sou o Theo! 👋
 
-### 👨‍💻 Desenvolvedor em Construção | Apaixonado por Tecnologia e Código
+### 👨‍💻 Desenvolvedor em Construção | Apaixonado por Python
 
-<img src="https://giphy.com" width="220px" alt="Coding 2D Animated Character"/>
+<img src="https://githubusercontent.com" alt="Coding Character" width="200" />
 
-*“Transformando café e linhas de código em soluções reais.”*
+*“Transformando lógica e linhas de código em soluções reais.”*
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas Conhecidas
 
-Aqui estão as tecnologias que fazem parte do meu ecossistema de desenvolvimento:
-
-[![Python](https://shields.io)](https://python.org)
-[![Git](https://shields.io)](https://git-scm.com)
-[![VS Code](https://shields.io)](https://visualstudio.com)
-[![MySQL](https://shields.io)](https://mysql.com)
-
----
-
-### 📈 Estatísticas de Desenvolvedor
-
-</div>
+Aquí estão as ferramentas que utilizo nos meus estudos diários:
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="160px"/>
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://shields.io" alt="MySQL" />
 </p>
 
 ---
 
-<div align="center">
+### 📈 Estatísticas do GitHub
+
+<img src="https://vercel.app" alt="Estatísticas do Theo" height="160px"/>
+
+---
 
 ### 📫 Vamos nos conectar?
 
-Seja para trocar uma ideia sobre Python ou construir algo juntos, sinta-se à vontade para me chamar!
-
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:seuemail@exemplo.com)
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:seuemail@exemplo.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
 
 </div>
