@@ -36,13 +36,9 @@ Atualmente estou construindo minha base em programação através de estudos e p
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheoLondoon&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheoLondoon&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLondoon&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLondoon&layout=compact&theme=tokyonight)
 
 ---
 
