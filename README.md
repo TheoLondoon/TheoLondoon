@@ -12,32 +12,36 @@ Sou um desenvolvedor Back-end especializado em **Python**. Gosto de resolver pro
 ### 💻 Stack Tecnológica
 
 #### 🐍 Linguagens & Frameworks
-![Python](https://shields.io)
-![Django](https://shields.io)
-![FastAPI](https://shields.io)
-![Flask](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="Django" />
+<img src="https://shields.io" alt="FastAPI" />
+<img src="https://shields.io" alt="Flask" />
 
 #### 🗄️ Bancos de Dados & Cache
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
-![Redis](https://shields.io)
+<img src="https://shields.io" alt="PostgreSQL" />
+<img src="https://shields.io" alt="MySQL" />
+<img src="https://shields.io" alt="Redis" />
 
 #### 🚀 DevOps & Ferramentas
-![Docker](https://shields.io)
-![Git](https://shields.io)
-![AWS](https://shields.io)
+<img src="https://shields.io" alt="Docker" />
+<img src="https://shields.io" alt="Git" />
+<img src="https://shields.io" alt="AWS" />
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
 ---
 
 ### 🌐 Conecte-se Comigo
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Seu Site](https://shields.io)](https://SEU-SITE.com)
+<a href="https://linkedin.com" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn" />
+</a>
+<a href="https://SEU-SITE.com" target="_blank">
+  <img src="https://shields.io" alt="Website" />
+</a>
