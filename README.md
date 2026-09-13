@@ -24,21 +24,20 @@ Atualmente estou construindo minha base em programação através de estudos e p
 
 ## 🛠️ Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Linguagens
+- 🐍 Python
+- 🌐 HTML
+- 🎨 CSS
 
----
+### Ferramentas
+- 🔧 Git
+- 🐙 GitHub
 
-## 📊 GitHub Stats
+### Banco de dados
+- 🗄️ MySQL
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheoLondoon&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLondoon&layout=compact&theme=tokyonight)
+### Framework
+- ⚡ Flask
 
 ---
 
@@ -48,15 +47,39 @@ Construir uma base sólida em programação, desenvolver projetos próprios e cr
 
 ---
 
-## 📈 Próximos passos
+## 📈 Meu plano de estudos
 
-Depois de terminar minha base de estudos, meu foco será dedicar **4–5 meses à prática**, criando projetos próprios e fortalecendo meu portfólio.
+**01 — Python**  
+Construir uma boa base de programação e lógica.
+
+**02 — Git & GitHub**  
+Aprender versionamento e organização dos projetos.
+
+**03 — HTML & CSS**  
+Aprender a construir a parte visual de páginas e sistemas.
+
+**04 — MySQL**  
+Aprender a armazenar e organizar dados.
+
+**05 — Flask**  
+Juntar Python, HTML e banco de dados para criar sistemas completos.
+
+**06 — Prática**  
+Criar projetos próprios e construir meu portfólio.
 
 ---
 
 ## 🚀 Projetos
 
-> Em breve, meus principais projetos aparecerão aqui conforme eu avanço nos estudos.
+Atualmente estou focado em aprendizado e construção da minha base.
+
+Meus projetos serão adicionados aqui conforme forem sendo desenvolvidos.
+
+---
+
+## 📌 Em evolução
+
+Estou documentando minha jornada de aprendizado através dos meus estudos e projetos no GitHub.
 
 ---
 
