@@ -24,8 +24,6 @@ Atualmente estou construindo minha base em programação através de estudos e p
 
 ### Linguagens
 - <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/a382ca1a-a033-418f-9228-32452c4f8c67" /> Python
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/36384520-4653-455f-b47d-9105f44d5345" /> HTML 
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/cc6e8fc9-cca4-41a0-a882-4ac030e656ac" /> CSS
 
 ### Ferramentas
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/07b3f0a4-3665-462d-8a2f-568a5f9d7f1f" /> Git
@@ -54,8 +52,6 @@ Construir uma base sólida em programação, desenvolver projetos próprios e cr
 **01 — Python**  
 Construir uma boa base de programação e lógica.
 
-**02 — HTML & CSS**  
-Aprender a construir a parte visual de páginas e sistemas.
 
 **03 — MySQL**  
 Aprender a armazenar e organizar dados.
